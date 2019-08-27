@@ -1,6 +1,14 @@
 # CoLab
 
-## Installation
+### Role & Contact Information 
+Lead Front-end Web Developer 
+
+General inquiries at ddzhang2018@gmail.com.
+
+### App Description 
+CoLab is a “work with me” app to bridge the gap between creatives looking to work with each other. Based on the fact that collaboration between two creatives doubles their creativity, we present a matching app to let people start creative collaborations. This idea can be used to connect a drummer with a singer, a movie director with actors, etc. OR a handyman with someone in need of help. The app will feature links to users social media and/or LinkedIn pages, as they desire, as a way to show their accreditations and/or work.
+
+### Installation
 open a seperate windows command prompt or terminal prompt and type: ```mongod```
 
 open vsCode in the folder of our project (CoLab):
